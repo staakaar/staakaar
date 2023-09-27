@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm staakaar</h1>
+<p align="left">
+  <a href="https://github.com/staakaar/staakaar/">
+    <img src="https://komarev.com/ghpvc/?username=staakaar&color=green" alt="staakaar" />
+  </a>
+</p>
+
 <h3 align="center">A passionate developer from Japan</h3>
 
 - 🌱 I’m currently learning **Rust and Go and Architecture**
