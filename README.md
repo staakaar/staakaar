@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm staakaar</h1>
-<p align="left">
-  <a href="https://github.com/staakaar/staakaar/">
-    <img src="https://komarev.com/ghpvc/?username=staakaar&color=green" alt="staakaar" />
-  </a>
-</p>
-
+<h1 align="center">Hi, I'm staakaar</h1>
+<div width="40">
+  <p align="center">
+    <a href="https://github.com/staakaar/staakaar/">
+      <img src="https://komarev.com/ghpvc/?username=staakaar&color=green" alt="staakaar" />
+    </a>
+  </p>
+</div>
 <h3 align="center">A passionate developer from Japan</h3>
 
 - 🌱 I’m currently learning **Rust and Go and Architecture**
