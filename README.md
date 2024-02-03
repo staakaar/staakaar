@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi, I'm staakaar</h1>
+<h1 align="center">Hi, I'm iwataka</h1>
 <div width="40">
   <p align="center">
   </p>
